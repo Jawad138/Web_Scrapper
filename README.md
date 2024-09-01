@@ -1,12 +1,12 @@
 # Web Scrapper
 
-Welcome to the Web Scrapper project! This repository contains a Python-based web scraping tool designed to extract product information from the // website. This project was developed as part of an internship task at EcodeCamp Pvt Ltd.
+Welcome to the Web Scrapper project! This repository contains a Python-based web scraping tool designed to extract product information from the Luxeurs website. This project was developed as part of an internship task at EcodeCamp Pvt Ltd.
 
 ## Project Overview
 
 The Web Scrapper is a Python script that:
 
-- Scrapes product details from the website.
+- Scrapes product details from the Luxeurs website.
 - Retrieves information such as product titles, prices, descriptions, and images.
 - Saves the collected data into a CSV file for easy analysis and record-keeping.
 
@@ -60,5 +60,12 @@ tqdm: Provides a progress bar to track the scraping progress.
 csv: Saves the scraped data into a CSV file for easy access and manipulation.
 Project Context
 This project was completed as part of an internship at EcodeCamp Pvt Ltd, focusing on Python development, Flask, web scraping, and Selenium. The task involved developing a functional web scraper to extract and manage product information, which demonstrates practical skills in data extraction and handling.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 Acknowledgements
 EcodeCamp Pvt Ltd: For providing the opportunity to work on this challenging task and gain hands-on experience.
+Luxeurs: For the website used in this project.
+Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
+
